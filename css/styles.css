@@ -1,0 +1,35 @@
+section{
+  /* 枠線の太さ */
+  border-width: 1px;
+  /* 枠線の色 */
+  border-color: gray;
+  /* 枠線のスタイル */
+  border-style: solid;
+  /* 枠線の角に丸みをつかせる */
+  border-radius: 8px;
+  /* 文字置く左右 */
+  text-align: center;
+  /* 枠の中の余白 */
+  padding: 8px;
+  /* 枠の外の余白 */
+  margin: 16px;
+  /* 背景画像 */
+  background-image: url(background159_01cN9.png);
+}
+#background{
+  opacity: 0.9;
+}
+img{
+  /* 幅 */
+  width: 250px;
+  /* 高さ */
+  height: 170px;
+  /* 画像の角に丸みつかせる*/
+  border-radius: 2%;
+  cursor: pointer;
+}
+
+footer{
+  /* 文字置く左右 */
+  text-align: right;
+}
